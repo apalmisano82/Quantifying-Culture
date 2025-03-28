@@ -21,3 +21,7 @@ Upon successful completion of this course, participants will be able to:
 | 3     | Introducing inferential statistics |
 | 4     | Introduction to the basic principles of Open Science |
 | 5     | Review and final assessment |
+
+## Resources
+
+* [The R Project for Statistical Computing](https://www.r-project.org/)
