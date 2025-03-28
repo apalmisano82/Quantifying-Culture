@@ -25,3 +25,11 @@ Upon successful completion of this course, participants will be able to:
 ## Resources
 
 * [The R Project for Statistical Computing](https://www.r-project.org/)
+* [RStudio Desktop](https://posit.co/download/rstudio-desktop/)
+* [R for Data Science](https://r4ds.had.co.nz/index.html)
+
+## Licence
+The course is made available under the [Creative Common License CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+[![licensebuttons by](https://licensebuttons.net/l/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+![logos]()
