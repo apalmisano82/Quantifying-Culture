@@ -32,4 +32,6 @@ Upon successful completion of this course, participants will be able to:
 The course is made available under the [Creative Common License CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 [![licensebuttons by](https://licensebuttons.net/l/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-![logos]()
+
+
+![logos](https://github.com/user-attachments/assets/688d1ff9-c1b4-4343-a321-524fce5279cb)
